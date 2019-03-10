@@ -1,0 +1,15 @@
+{
+    "name": "RestApp",
+    "version": "0.0.0",
+    "dependencies": {
+        "express": "^4.11.2",
+        "express-validator": "^5.3.1",
+        "istanbul": "^0.4.5",
+        "jasmine": "^3.3.1",
+        "jasmine-node": "^2.0.1",
+        "node-mocks-http": "^1.7.3",
+        "superagent": "^4.1.0"
+    },
+    "author": "Rishi Prakash",
+    "description": "First App of NodeJS"
+}
